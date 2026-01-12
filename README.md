@@ -35,7 +35,7 @@ I love building web applications and learning modern technologies.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ### 🗄️ Database
-![Database](https://img.shields.io/badge/Database-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+[![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 ## 📊 GitHub Stats
 
