@@ -39,7 +39,8 @@ I love building web applications and learning modern technologies.
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RohanLokhande-1306&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohanLokhande-1306&show_icons=true)
+
 
 
 
