@@ -37,11 +37,11 @@ I love building web applications and learning modern technologies.
 ### 🗄️ Database
 [![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=RohanLokhande-1306&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohanLokhande-1306&show_icons=true)
+
 
 
 
